@@ -1,0 +1,18 @@
+h1,h2{
+      color: darkcyan;
+    text-align: center;
+    font-family: KacstArt;
+}
+
+ul{
+    color: cadetblue;
+    font-family: "JetBrains Mono";
+    font-size: larger;
+
+}
+ol{
+    color: darkolivegreen;
+    font-size: larger;
+    text-align: center;
+}
+

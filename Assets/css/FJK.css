@@ -1,0 +1,51 @@
+ul{
+    margin: 5px;
+    padding: 0;
+   list-style-type: none;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 15px;
+   border-top-color: grey;
+    color: grey;
+    font-family: KacstArt;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+
+}
+li a:hover{
+   color: black;
+}
+.fruits{
+    border: 2px solid red;
+    text-align: center;
+    color: white;
+    background-color: darkred;
+    padding: 20px;
+    margin: 20px;
+
+}
+.cars{
+    border: 2px solid grey;
+    text-align: center;
+    color: darkcyan;
+    background-color: cadetblue;
+    padding: 20px;
+    margin: 20px;
+}
+.FRUITS{
+    border: darkblue;
+    text-align: center;
+    color: cornflowerblue;
+    background-color: darkgray;
+    padding: 20px;
+    margin: 20px;
+
+}
+#school{
+    
+}
